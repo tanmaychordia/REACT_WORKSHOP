@@ -1,0 +1,22 @@
+.add{
+  background-color: chocolate;
+  text-align: justify;
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+form{
+  text-align: justify;
+  font-family: fantasy;
+}
+
+input {
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 3px;
+
+}
